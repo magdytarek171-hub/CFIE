@@ -28,6 +28,9 @@ The approved unit engine and its conversion boundaries are documented in
 The immutable scientific data models are documented in
 [ES-003: Chemical Species & Compound Data Model](docs/es-003-chemical-species-compound-data-model.md).
 
+The formula model architecture is documented in
+[Formula Data Model](docs/formulation/formula-data-model.md).
+
 ## Scientific implementation policy
 
 Scientific functionality is introduced only from an approved specification. Each approved calculation must have documented inputs, units, assumptions, validation criteria, traceability to its source, and unit tests.
